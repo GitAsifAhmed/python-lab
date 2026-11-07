@@ -28,19 +28,4 @@ Python Lab is a collection of Python projects, practical implementations, and te
 **Primary Language:** Python  
 **Tools:** Git, GitHub, and project-specific libraries and frameworks.
 
-## Getting Started
-
-Clone the repository:
-
-```bash
-git clone https://github.com/YOUR-USERNAME/python-lab.git
-cd python-lab
-```
-
-Navigate to any project directory and follow its individual README for setup and execution instructions.
-
----
-
-**Build. Experiment. Improve.**
-
 *An evolving collection of things built with Python.*
