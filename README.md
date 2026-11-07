@@ -9,10 +9,10 @@ Python Lab is a collection of Python projects, practical implementations, and te
 
 | Directory | Description |
 |:---|:---|
-| `01-beginner` | Python fundamentals, programming logic, and basic implementations. |
-| `02-intermediate` | Practical applications, automation, APIs, and data handling. |
-| `03-advanced` | Complex applications, advanced concepts, and specialized implementations. |
-| `04-experiments` | Prototypes, technical explorations, and experimental projects. |
+| `foundations` | Python fundamentals, programming logic, and basic implementations. |
+| `applications` | Practical applications, automation, APIs, and data handling. |
+| `advanced-projects` | Complex applications, advanced concepts, and specialized implementations. |
+| `experiments` | Prototypes, technical explorations, and experimental projects. |
 
 ## Areas of Exploration
 
